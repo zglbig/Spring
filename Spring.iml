@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../Spring/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../Spring/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../Spring">
+      <sourceFolder url="file://$MODULE_DIR$/../Spring/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Spring/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../Spring/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.5" level="project" />
+  </component>
+</module>
